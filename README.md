@@ -1,15 +1,13 @@
-# Master-mind-V3-PLUGINS
 
-<a><img src='https://i.imgur.com/tzO1hlI.jpeg'/></a>
 ## External Plugins For Master-Mind-V3 
 
 
 <h4 align="center">  ᐉ MENTION</h1>
 
-   ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/OfficialAnjanv2">  Anjan-Ser</a>
+   ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/Siliguri-design">  Anjan-Ser</a>
 
 ```js
-https://gist.github.com/OfficialAnjanv2/122d4cfc1854b82bc99d7a8f27928f2c
+https://gist.github.com/Siliguri-design/1139c4078607d4b642efb5c56edf09c9
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :
 𝙲𝚄𝚂𝚃𝙾𝙼 𝙼𝙴𝙽𝚃𝙸𝙾𝙽 𝙰𝚄𝙳𝙸𝙾 𝚂𝙴𝙽𝙳𝙴𝚁<br /> 
