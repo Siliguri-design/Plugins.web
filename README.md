@@ -4,7 +4,7 @@
 
 <h4 align="center">  ᐉ MENTION</h1>
 
-   ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/Siliguri-design">  Mention Plugin</a>
+   ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/Siliguri-design">  Anjan Dhar</a>
 
 ```js
 https://gist.github.com/Siliguri-design/1139c4078607d4b642efb5c56edf09c9
@@ -17,7 +17,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ/ʙᴏᴛ : Anjan Dhar
 
 <h4 align="center">  ᐉ ALIVE</h1>
 
-   ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/Siliguri-design"> Alive Plugin</a>
+   ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/Siliguri-design"> Anjan Dhar</a>
 
 ```js
 https://gist.github.com/Siliguri-design/50496a2cfc7001387140e0a83c907320
@@ -30,7 +30,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ/ʙᴏᴛ : Anjan Dhar
 
 <h4 align="center">  ᐉ OWNER</h1>
 
-   ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/Siliguri-design">  Owner Plugin</a>
+   ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/Siliguri-design">  Anjan Dhar</a>
 
 ```js
 https://gist.github.com/Siliguri-design/3d19c26373f74afd0992867e3af30136
